@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">Artikel</string>
+    <string name="description">Deskripsi</string>
+    <string name="profile">profile</string>
+
+    <string name="judul_artikel">Bangby</string>
+    <string name="telepon_artikel">+62 123 4567 8901</string>
+    <string name="email_artikel">bangbyartikel@gmail.com</string>
+    <string name="deskripsi_artikel">Bangby adalah salah satu artikel berita swasta internasional di Indonesia yang berfokus pada konten bahasa pemrograman yang sedang hangat dibicarakan. Artikel Bangby dimiliki oleh Robby Yehezkiel, peserta Bangkit Academy 2023.</string>
+
+    <string name="sosmed_1">Instagram</string>
+    <string name="sosmed_2">Facebook</string>
+    <string name="sosmed_3">Twitter</string>
+    <string name="sosmed_4">YouTube</string>
+    <string name="sosmed_5">Email</string>
+    <string name="sosmed_6">YouTube</string>
+
+    <string name="sosialmed_1">bangby_news</string>
+    <string name="sosialmed_2">Berita Bangby </string>
+    <string name="sosialmed_3">bangby.news</string>
+    <string name="sosialmed_4">Bangby TV</string>
+
+    <string name="about_name">Robby Yehezkiel Pardomuan</string>
+    <string name="about_email">robby396fs@gmail.com</string>
+
+    <string name="action_share">Share</string>
+
+    <color name="text_color">#191970</color>
+    <color name="background_color">#00FFFF</color>
+
+    <string-array name="data_name">
+        <item>Kotlin Android 2023</item>
+        <item>Google Cloud 2023</item>
+        <item>Machine Learning 2023</item>
+        <item>Flutter 2023</item>
+        <item>Laravel 2023</item>
+        <item>Bootstrap 2023</item>
+        <item>Phyton 2023</item>
+        <item>Swift 2023</item>
+        <item>Ruby 2023</item>
+        <item>React JS 2023</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Buat aplikasi Android yang lebih baik secara lebih cepat dengan Kotlin. Kotlin adalah bahasa pemrograman modern melalui pengetikan statis yang digunakan lebih dari 60% developer Android profesional untuk membantu meningkatkan produktivitas, kepuasan developer, dan keamanan kode. Fitur bahasa modern Kotlin memungkinkan Anda fokus untuk mengekspresikan ide dan menulis lebih sedikit kode boilerplate. Dengan nullability yang disertakan dalam sistem jenisnya, Kotlin membantu Anda menghindari NullPointerExceptions. Aplikasi Android yang menggunakan Kotlin memiliki kemungkinan error 20% lebih rendah. Toolkit UI modern Android dibuat di Kotlin, memungkinkan Anda membuat UI dengan cepat menggunakan API yang intuitif dan andal. Coroutine Kotlin menyederhanakan pemrograman asinkron, membuat tugas umum seperti panggilan jaringan dan update database menjadi sederhana dan berperforma tinggi.</item>
+        <item>Google Cloud Platform, (atau GCP) adalah kumpulan layanan komputasi awan yang ditawarkan oleh Google. GCP berjalan di atas infrastruktur yang sama yang digunakan oleh Google untuk produk internalnya, seperti Google Search, YouTube dan Gmail. Bersamaan dengan seperangkat alat manajemen, GCP menyediakan serangkaian layanan cloud modular termasuk komputasi, penyimpanan data, Analisis data dan pembelajaran mesin. Registrasi membutuhkan detail kartu kredit atau rekening bank. Google platform awan menyediakan layanan infrastruktur, layanan Platform, dan lingkungan komputasi tanpa server. Pada bulan April 2008, Google mengumumkan mesin aplikasi, platform untuk mengembangkan dan hosting aplikasi web di pusat data yang dikelola Google, yang merupakan layanan komputasi awan pertama dari perusahaan. Layanan ini umumnya tersedia pada bulan November 2011. Sejak pengumuman mesin apliksi, Google menambahkan beberapa layanan platform ke awan. Google Platform awan adalah bagiannya dari Google awan, yang mencakup infrastruktur awan publik Google Platform awan, serta, G Suite, versi enterprise dari Android dan Chrome, dan Antarmuka pemrograman aplikasi untuk pembelajaran mesin dan layanan pemetaan perusahaan.</item>
+        <item>Teknologi machine learning (ML) adalah mesin yang dikembangkan untuk bisa belajar dengan sendirinya tanpa arahan dari penggunanya. Pembelajaran mesin dikembangkan berdasarkan disiplin ilmu lainnya seperti statistika, matematika dan data mining sehingga mesin dapat belajar dengan menganalisa data tanpa perlu di program ulang atau diperintah. Dalam hal ini machine learning memiliki kemampuan untuk memperoleh data yang ada dengan perintah ia sendiri. ML juga dapat mempelajari data yang ada dan data yang ia peroleh sehingga bisa melakukan tugas tertentu. Tugas yang dapat dilakukan oleh ML pun sangat beragam, tergantung dari apa yang ia pelajari. Istilah machine learning pertama kali dikemukakan oleh beberapa ilmuwan matematika seperti Adrien Marie Legendre, Thomas Bayes dan Andrey Markov pada tahun 1920-an dengan mengemukakan dasar-dasar machine learning dan konsepnya. Sejak saat itu ML banyak yang mengembangkan. Salah satu contoh dari penerapan ML yang cukup terkenal adalah Deep Blue yang dibuat oleh IBM pada tahun 1996.</item>
+        <item>Flutter adalah platform yang digunakan para developer untuk membuat aplikasi multiplatform hanya dengan satu basis coding (codebase). Artinya, aplikasi yang dihasilkan dapat dipakai di berbagai platform, baik mobile Android, iOS, web, maupun desktop. Flutter memiliki dua komponen penting, yaitu, Software Development Kit (SDK) dan juga framework user interface. Software Development Kit (SDK) merupakan sekumpulan tools yang berfungsi untuk membuat aplikasi supaya bisa dijalankan di berbagai platform. Framework UI merupakan komponen UI, seperti teks, tombol, navigasi, dan lainnya, yang dapat Anda kustomisasi sesuai kebutuhan. Flutter juga merupakan platform yang gratis dan open source. Jika Anda ingin menggunakan Flutter, Anda perlu mempelajari bahasa pemrograman Dart. Berbeda dengan framework front-end pada umumnya, di mana JavaScript adalah bahasa pemrogramannya.  </item>
+        <item>Laravel adalah framework berbasis bahasa pemrograman PHP yang bisa digunakan untuk membantu proses pengembangan sebuah website agar lebih maksimal. Dengan menggunakan Laravel, website yang dihasilkan akan lebih dinamis. Kehadiran framework Laravel menjadikan bahasa pemrograman PHP menjadi lebih powerful. Perlu kita ketahui bahwa kehadiran framework Laravel selalu menghadirkan fitur-fitur terbaru dibandingkan framework lainnya. Framework Laravel menggunakan struktur MVC (Model View Controller). MVC merupakan model aplikasi yang memisahkan antara data dan tampilan berdasarkan komponen aplikasi. Dengan adanya model MVC, pengguna Laravel menjadi lebih mudah dalam mempelajari Laravel. Serta menjadikan proses pembuatan aplikasi berbasis website menjadi lebih cepat.</item>
+        <item>Bootstrap adalah framework web development berbasis HTML, CSS, dan JavaScript yang dirancang untuk mempercepat proses pengembangan web responsive dan mobile-first (memprioritaskan perangkat seluler). Selain bisa digunakan untuk mengembangkan website dengan lebih cepat, Bootstrap adalah framework gratis yang bersifat open-source. Skrip dan syntax yang disediakan Bootstrap bisa diterapkan untuk berbagai komponen dalam desain web.</item>
+        <item>Python adalah sebuah bahasa pemrograman yang digunakan untuk membuat aplikasi, perintah komputer, dan melakukan analisis data. Sebagai general-purpose language, Python bisa digunakan untuk membuat program apa saja dan menyelesaikan berbagai permasalahan. Selain itu, Python juga dinilai mudah untuk dipelajari. Namun, jangan salah, Python termasuk bahasa pemrograman tingkat tinggi. Mulai dari profesi back-end developer, IT, sampai data scientist, Python benar-benar menjadi pilihan favorit. Sejak awal kemunculannya di era 1990-an, Python selalu masuk ke dalam bahasa pemrograman yang paling sering dipakai di industri. Bahkan, survei dari RedMonk mengungkapkan bahwa Python menduduki peringkat kedua sebagai bahasa pemrograman favorit para developer pada 2021—sekitar 30 tahun sejak peluncurannya. Kita sudah mengenal apa itu Python secara singkat, sekarang mari ungkap alasan mengapa bahasa pemrograman ini begitu populer. Pertama, Python memiliki syntax yang mudah diingat dan mudah dimengerti. Kedua, Python bisa digunakan untuk berbagai hal, baik itu pengolahan data maupun pembuatan website baru. </item>
+        <item>Swift merupakan bahasa yang baru-baru ini lahir. Dengan alasan itu, ia bersifat kekinian, modern, dan clean. Bahkan, kamu tak perlu menggunakan titik koma (;) layaknya di bahasa pemrograman lainnya. Ini membuatnya mudah dibaca dan dijaga kualitasnya. Selain itu, kemungkinan kamu salah menulis juga bisa ditekan. Bahasa pemrograman Swift juga diklaim lebih aman. Sebab, mereka tak punya kelompok kode yang berpeluang dirusak orang tak bertanggung jawab. Kamu tentu sudah kenal dengan compiling. Ia merupakan sebuah proses pembacaan bahasa pemrograman oleh komputer. Nantinya, bahasa itu diubah menjadi sederet perintah. Nah, Swift sudah menggunakan teknologi compiling LLVM. Ini membuatnya cepat terbaca. Pada akhirnya, program bisa dijalankan dengan kilat. Katanya, bahasa ini bisa membuka jalan menuju kemampuan programming. Sampai-sampai, Apple mengklaim bahwa Swift dirancang untuk jadi bahasa pertama siapa saja.</item>
+        <item>Ruby dikembangkan oleh programmer asal Jepang bernama Yukihiro Matsumoto (Matz). Pada tahun 1993, Ia mulai membangun Ruby dengan tujuan menciptakan bahasa pemrograman yang dapat ditulis secara efisien. Matz menggabungkan bahasa favoritnya, yakni Perl, Smaltalk, Eiffel, Ada, serta Lips untuk membangun bahasa pemrograman baru yang seimbang dari segi imperatif dan fungionalitasnya. Ruby termasuk salah satu bahasa pemrograman dengan sintaks yang sederhana. Karena kesederhanaan kodenya,  kerja programmer jadi lebih efektif. Dibandingkan dengan bahasa pemrograman lain yang umumnya dibutuhkan sekitar 10 baris, Ruby hanya butuh 1 atau 2 baris saja. Kamu juga tak perlu menggunakan titik koma (;) di akhir sintaks. Pemrograman berbasis OOP dianggap lebih fleksibel, karena mudah dipelajari dan dapat di-develop sesuai kebutuhan. Konsep ini memanfaatkan kumpulan objek yang saling berinteraksi dan bertukar data untuk mencapai hasil akhir yang diinginkan.</item>
+        <item>React JS adalah library JavaScript yang biasa digunakan saat membangun UI suatu website atau aplikasi web. Jadi, React JS bisa dianggap seperti perpustakaan yang berisi berbagai kode JavaScript yang sudah tertulis (pre-written). Anda tinggal mengambil kode yang ingin Anda gunakan. Sehingga, ini membuat proses coding menjadi lebih efisien dengan framework JavaScript tersebut. Sebentar, apakah Anda belum tau apa itu JavaScript? Jika belum, JavaScript adalah bahasa pemrograman yang dapat membantu Anda membuat konten web yang dinamis, seperti form, slideshow, atau konten interaktif lainnya. Dengan JavaScript, Anda dapat membuat tampilan website yang lebih menarik. Nah, inilah mengapa library ini berguna untuk membangun UI, karena pengaplikasian kode JavaScript di website Anda bisa menjadi lebih mudah.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/kotlin</item>
+        <item>@drawable/gc</item>
+        <item>@drawable/ml</item>
+        <item>@drawable/flutter</item>
+        <item>@drawable/laravel</item>
+        <item>@drawable/bootstrap</item>
+        <item>@drawable/phyton</item>
+        <item>@drawable/swift</item>
+        <item>@drawable/ruby</item>
+        <item>@drawable/rjs</item>
+    </integer-array>
+    <string-array name="data_publish">
+        <item>Publish : 4 Maret 2023</item>
+        <item>Publish : 20 Februari 2023</item>
+        <item>Publish : 18 Februari 2023</item>
+        <item>Publish : 26 Januari 2023</item>
+        <item>Publish : 11 Januari 2023</item>
+        <item>Publish : 03 Januari 2023</item>
+        <item>Publish : 14 Desember 2022</item>
+        <item>Publish : 01 November 2022</item>
+        <item>Publish : 28 September 2022</item>
+        <item>Publish : 30 Agustus 2022</item>
+    </string-array>
+    <string-array name="data_writer">
+        <item>Ditulis oleh Ronaldo</item>
+        <item>Ditulis oleh Messi</item>
+        <item>Ditulis oleh Karrigan</item>
+        <item>Ditulis oleh Swift</item>
+        <item>Ditulis oleh Kovacks</item>
+        <item>Ditulis oleh Perry</item>
+        <item>Ditulis oleh Minaj</item>
+        <item>Ditulis oleh Evan</item>
+        <item>Ditulis oleh Holland</item>
+        <item>Ditulis oleh Chelsea</item>
+    </string-array>
+</resources>
